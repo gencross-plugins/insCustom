@@ -17,7 +17,7 @@
 	
 	<scm>
 		<connection>scm:git:git://github.com/gencross-plugins/insCustom.git</connection>
-		<developerConnection>scm:git@github.com:gencross-plugins/insCustom.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:gencross-plugins/insCustom.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 	

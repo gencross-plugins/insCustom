@@ -4,7 +4,7 @@
 	<entry key="genCross.plugin.name">INS Custom</entry>
 	<entry key="genCross.plugin.className">com.mrprez.gencross.impl.insCustom.InsCustom</entry>
 	<entry key="genCross.plugin.gcrFileName">com/mrprez/gencross/impl/insCustom/InsCustom.gcr</entry>
-	<entry key="genCross.plugin.version">2.2</entry>
+	<entry key="genCross.plugin.version">2.3</entry>
 	<entry key="genCross.plugin.appendixFileName">com/mrprez/gencross/impl/insCustom/InsCustom.properties</entry>
 	<entry key="genCross.plugin.migration.1.9">com.mrprez.gencross.impl.insCustom.MigrationFrom1_9</entry>
 	<entry key="genCross.plugin.migration.2.0">com.mrprez.gencross.impl.insCustom.MigrationFrom2_0</entry>

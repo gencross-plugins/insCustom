@@ -8,5 +8,6 @@
 	<entry key="genCross.plugin.appendixFileName">com/mrprez/gencross/impl/insCustom/InsCustom.properties</entry>
 	<entry key="genCross.plugin.migration.1.9">com.mrprez.gencross.impl.insCustom.MigrationFrom1_9</entry>
 	<entry key="genCross.plugin.migration.2.0">com.mrprez.gencross.impl.insCustom.MigrationFrom2_0</entry>
+	<entry key="genCross.plugin.migration.2.1">com.mrprez.gencross.impl.insCustom.MigrationFrom2_1</entry>
 </properties>
 
